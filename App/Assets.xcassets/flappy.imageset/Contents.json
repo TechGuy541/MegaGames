@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "png-transparent-flappy-bird-squishy-bird-game-android-retry-games-game-flappy-bird-android.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "png-transparent-flappy-bird-squishy-bird-game-android-retry-games-game-flappy-bird-android 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "png-transparent-flappy-bird-squishy-bird-game-android-retry-games-game-flappy-bird-android 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
